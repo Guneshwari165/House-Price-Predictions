@@ -1,4 +1,4 @@
-Sure! Here's a short and sweet README.md file based on your project:
+
 
 
 ---
@@ -56,5 +56,5 @@ Data Collection → Preprocessing → EDA → Feature Engineering → Modeling �
 
 **Conclusion:** A high-performing, interpretable model that forecasts house prices with strong accuracy and real-world relevance.
 
-Would you like this as a downloadable .md file or PDF?
+
 
